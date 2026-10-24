@@ -1,3 +1,5 @@
+import json
+import os
 import re
 import sys
 import urllib.request
@@ -5,11 +7,12 @@ import urllib.request
 FONTE = "https://audaciosamultimarcas.webloja.app/xml"
 SAIDA = "feed.xml"
 RELATORIO = "relatorio.txt"
+DESCRICOES = "descricoes.json"
 
 # Categorias que NUNCA entram no catalogo (comparacao sem acento e sem maiusculas)
 CATEGORIAS_FORA = ["intimidades"]
 # Palavras no nome que tiram o produto do catalogo (opcional, comece vazio)
-PALAVRAS_FORA = []
+PALAVRAS_FORA = ["intimo"]
 
 
 def limpar(t):
@@ -29,6 +32,18 @@ def campo(item, nome):
     return v.strip()
 
 
+def carregar_descricoes():
+    if not os.path.exists(DESCRICOES):
+        return {}
+    with open(DESCRICOES, encoding="utf-8") as f:
+        return json.load(f)
+
+
+def aplicar_descricao(item, texto):
+    novo = "<g:description><![CDATA[%s]]></g:description>" % texto
+    return re.sub(r"<g:description>.*?</g:description>", lambda m: novo, item, count=1, flags=re.S)
+
+
 def baixar():
     req = urllib.request.Request(FONTE, headers={"User-Agent": "Mozilla/5.0"})
     with urllib.request.urlopen(req, timeout=60) as r:
@@ -46,6 +61,8 @@ def main():
     cabecalho = xml[:inicio].replace("https://https://", "https://")
     itens = re.findall(r"<item>.*?</item>", xml, re.S)
 
+    descricoes = carregar_descricoes()
+    sem_descricao = []
     mantidos, fora = [], {}
     cats_mantidas = {}
     for it in itens:
@@ -62,6 +79,11 @@ def main():
         if motivo:
             fora.setdefault(motivo, []).append(titulo)
         else:
+            pid = campo(it, "id")
+            if pid in descricoes:
+                it = aplicar_descricao(it, descricoes[pid])
+            else:
+                sem_descricao.append("%s - %s" % (pid, titulo))
             mantidos.append(it)
             cats_mantidas[cat] = cats_mantidas.get(cat, 0) + 1
 
@@ -78,6 +100,9 @@ def main():
         f.write("Categorias que ficaram:\n")
         for c, n in sorted(cats_mantidas.items()):
             f.write("  %s: %d\n" % (c, n))
+        f.write("\nProdutos SEM descricao persuasiva (%d):\n" % len(sem_descricao))
+        for t in sem_descricao:
+            f.write("    - %s\n" % t)
         f.write("\nRemovidos:\n")
         for m, lst in fora.items():
             f.write("  %s: %d\n" % (m, len(lst)))
