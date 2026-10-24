@@ -1,0 +1,107 @@
+Produtos na loja: 343
+Produtos no catalogo: 256
+
+Categorias que ficaram:
+  Batons: 26
+  Body Splash: 22
+  Creme para o corpo: 22
+  Infantil: 21
+  Masculino: 26
+  Outros: 27
+  Para o Rosto: 20
+  Perfume Feminino: 17
+  Prontos para Presentear: 12
+  Sabonetes: 24
+  Tupperware.: 38
+  para o corpo: 1
+
+Removidos:
+  arquivado: 15
+    - Esfoliante em creme para o corpo Macadâmia 200ml
+    - Body Splash Cereja e Avelã 200ml
+    - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
+    - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
+    - Colônia infantil Mickey Mouse 150ml
+    - Colônia infantil Spider-man 70ml
+    - Creme Facial Hidratação Noturna 100g 5 em 1
+    - Creme hidratante corporal ameixa e flor de baunilha 400ml
+    - Creme hidratante corporal cereja e avela 400ml
+    - Creme hidratante corporal energia 400ml
+    - Creme hidratante corporal flor de pessego e jasmim 400ml
+    - Creme hidratante corporal noz peca e cacau 400ml
+    - Creme para mãos luva de silicone 75g
+    - Humor Próprio Deo Corporal 100ml
+    - Sabonete liquido ameixa e flor de baunilha 300ml
+  categoria intima: 72
+    - Bubble Vibes Gel 3 Em 1 Desliza Vibra Aquece 120g Linha Premium.
+    - Gel Deslizante Lubrificante Deborah Secco 120g Linha Premium.
+    - Suculenta Gel Deslizante Merengue Calianer 110g Linha Premium.
+    - Óleo Corporal Para Massagem 120ml aroma de uva.
+    - Lis-In Gold Gel Anestésico 30G  Linha Premium.
+    - Anestésico Sete Sensações 25g
+    - Chocolate Do Amor Excitante 1 und, 5g Afrodisíaco.
+    - Bolinhas Fucional Facilitador De Orgasmos Climax Com 3un.
+    - Algema De Metal Com Pelúcia
+    - Aromatizante Sedenta por Garganta 15ml
+    - Bolinha Adstringente Lacradinha 3und.
+    - Bolinha Excitante Power Shock 220v De Tesão
+    - Bolinha Excitantes Dragão Chinês
+    - Bolinha Retardante Pika Turbo 3und.
+    - Bolinhas Hot Xana Loka 2 undi.
+    - Bolinhas Sensoriais Tesão na Raba 3 unidades.
+    - Calcinha Tailandesa Premium
+    - Calcinha Tailandesa Que Brilha No Escuro Plus Size
+    - Desodorante Íntimo Fragrância Afrodisíaca Secret Glamour 166ml
+    - Ducha Higiênica Unissex 89ml
+    - Energético Afrodisíaco Tesão de Touro 10ml
+    - Energético Afrodisíaco Tesão de Vaca 10ml
+    - Energético Afrodisíaco Tesão De Vaca 20ml
+    - Excitante Japonês Super Hot 3g Secret Love
+    - Excitante Masculino Volumão 25g
+    - Excitante Unissex Caldeirão Da Vibração 15g Poções
+    - Fantasia Comestível Enfermeira Sabor Morango.
+    - Funcional Anal Rebelde sem Calça 15g
+    - Gel Adstringente Poção Da Virgem 15g Poções
+    - Gel Afrodisíaco Hot Comigo Ninguém Pode 15g
+    - Gel Beijável Lambida Dos Deuses 15g Poções
+    - Gel Beijável Lambida Dos Deuses 15g Poções
+    - Gel Beijável Xupa Rôla 15g
+    - Gel Beijável Xupa Xana 15g
+    - Gel Estimulante Pinto Loko 15g
+    - Gel Estimulante PPk Louca 15g Poções
+    - Gel Excitante Feminino Trepadeira 15g
+    - Gel Excitante Ice Raspadinha 15g
+    - Gel Excitante Pinta Clima 15g
+    - Gel Excitante Sedenta Por Gemido 18g
+    - Gel Excitante Sedenta Por Tesão 18g
+    - Gel Excitante Sedenta Safada 18g
+    - Gel Facilitador Vo-Da-Ku 15g Poções
+    - Gel Funcional Anal Kuloko 15g
+    - Gel Funcional Hot Ice e Vibra Xana Loka 15g
+    - Gel Hidratante Beijável Babasoul  Frutas Vermelhas 280ml
+    - Gel Lubrificante Sedenta Molhada 50g
+    - Gel Térmico Comestível Menta 15ml
+    - Gel Térmico Comestível Morango 15ml
+    - Gel Térmico Gozo Mágico 15g Poções
+    - Gloss Labial Babaloo Ice Cereja 4ml
+    - Gloss Labial Babaloo Ice Melancia 4ml
+    - Gloss Labial Babaloo Ice Tutti-Frutti 4ml
+    - Hidratante Para Virilha E Corpo Sweet Glow 320ml
+    - Jogo Dados Toque Do Cupido 3 Unid. Diversão Ao Cubo
+    - Jogo Duelo Do Prazer Picante Diversão Ao Cubo
+    - Lâminas Paper Mint 20 undi.
+    - Lubrificante Intimo Neutro 50g
+    - Lubrificante Love Bubbalove Menta 60g
+    - Masturbador Egg Magical Twister
+    - Melzinho Do Amor Trepe Honey 8ml
+    - Mini Fantasia Body Emergência.
+    - Perfume Masculino Phero Aroma 15ml
+    - Plug Anal Dourado com Pingente tam:M
+    - Plug Anal Prata com Rosa tam:P
+    - Pomada Excitante Oriental 4g
+    - Prolongador De Ereção Poção Do Tempo 15g Poções
+    - Vela Comestível Sorvete Quente leitinho trufado 30g
+    - Vela Comestível Sorvete Quente Sabor Sensação 30g
+    - Venda Preta Com Pelúcia
+    - Vibrador Líquido Power Shock 15ml
+    - Vibrador Ponto G Com Formato Golfinho Aveludado
