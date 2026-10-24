@@ -1,5 +1,5 @@
 Produtos na loja: 343
-Produtos no catalogo: 256
+Produtos no catalogo: 251
 
 Categorias que ficaram:
   Batons: 26
@@ -11,9 +11,11 @@ Categorias que ficaram:
   Para o Rosto: 20
   Perfume Feminino: 17
   Prontos para Presentear: 12
-  Sabonetes: 24
+  Sabonetes: 19
   Tupperware.: 38
   para o corpo: 1
+
+Produtos SEM descricao persuasiva (0):
 
 Removidos:
   arquivado: 15
@@ -105,3 +107,9 @@ Removidos:
     - Venda Preta Com Pelúcia
     - Vibrador Líquido Power Shock 15ml
     - Vibrador Ponto G Com Formato Golfinho Aveludado
+  palavra bloqueada: 5
+    - Sabonete íntimo Barbatimão e Flor de Algodão 200ml
+    - Sabonete Íntimo Morango 200ml
+    - Sabonete Íntimo Ylang Ylang 200ml
+    - Sabonete Liquido Intimo 3 Em 1 Fresh 250ml
+    - Sabonete Liquido Intimo Hydrating 250ml
