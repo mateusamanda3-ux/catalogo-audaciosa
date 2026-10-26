@@ -1,28 +1,28 @@
-Produtos na loja: 343
+Produtos na loja: 341
 Produtos no catalogo: 251
 
 Categorias que ficaram:
-  Batons: 26
+  Batons: 24
   Body Splash: 22
-  Creme para o corpo: 22
+  Creme para o corpo: 23
   Infantil: 21
   Masculino: 26
   Outros: 27
-  Para o Rosto: 20
+  Para o Rosto: 21
   Perfume Feminino: 17
   Prontos para Presentear: 12
   Sabonetes: 19
   Tupperware.: 38
   para o corpo: 1
 
-Produtos SEM descricao persuasiva (0):
+Produtos SEM descricao persuasiva (2):
+    - 12572819 - Esfoliante em creme para o corpo Macadâmia 200ml
+    - 12569601 - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
 
 Removidos:
-  arquivado: 15
-    - Esfoliante em creme para o corpo Macadâmia 200ml
+  arquivado: 13
     - Body Splash Cereja e Avelã 200ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
-    - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
     - Colônia infantil Mickey Mouse 150ml
     - Colônia infantil Spider-man 70ml
     - Creme Facial Hidratação Noturna 100g 5 em 1
