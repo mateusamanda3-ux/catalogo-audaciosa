@@ -1,27 +1,40 @@
-Produtos na loja: 341
-Produtos no catalogo: 251
+Produtos na loja: 351
+Produtos no catalogo: 257
 
 Categorias que ficaram:
   Batons: 24
   Body Splash: 22
   Creme para o corpo: 23
   Infantil: 21
-  Masculino: 26
-  Outros: 27
+  Masculino: 23
+  Outros: 26
   Para o Rosto: 21
   Perfume Feminino: 17
-  Prontos para Presentear: 12
+  Prontos para Presentear: 22
   Sabonetes: 19
   Tupperware.: 38
   para o corpo: 1
 
-Produtos SEM descricao persuasiva (2):
+Produtos SEM descricao persuasiva (12):
+    - 21380702 - Cesta Boticollection Acqua Fresca - Frescor e Carinho.
+    - 21380088 - Cesta Boticollection Anni – Delicadeza que Encanta
+    - 21380506 - Cesta Boticollection Thaty - Um Toque de Carinho.
+    - 21375331 - Cesta Essencial Ato – Um Gesto de Amor
     - 12572819 - Esfoliante em creme para o corpo Macadâmia 200ml
+    - 21380913 - Presente infantil para Menino Mickey Mouse - Uma Surpresa Encantadora
+    - 21386810 - Presente infantil Patrulha Canina - Uma Caixinha de Diversão.
+    - 21381432 - Presente infantil Pequena Sereia - Um Encanto para as Pequenas Princesas.
+    - 21387401 - Coração infantil Super-Heróis - Aventura e Diversão
+    - 21387225 - Cesta infantil Natura Naturé - Um Carinho Divertido.
+    - 21387032 - Presente Cuide-se Bem Boa Noite - Você é Especial
     - 12569601 - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
 
 Removidos:
-  arquivado: 13
+  arquivado: 17
+    - Presente Natura Nosso Humor Colônia Feminina e Masculina.
     - Body Splash Cereja e Avelã 200ml
+    - Côlonia kaiak Extremo masculino 100ml
+    - Body Spray Egeo Original 100ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
     - Colônia infantil Mickey Mouse 150ml
     - Colônia infantil Spider-man 70ml
@@ -32,6 +45,7 @@ Removidos:
     - Creme hidratante corporal flor de pessego e jasmim 400ml
     - Creme hidratante corporal noz peca e cacau 400ml
     - Creme para mãos luva de silicone 75g
+    - Creme para mãos luva de silicone óleo de coco 6em1  75g.
     - Humor Próprio Deo Corporal 100ml
     - Sabonete liquido ameixa e flor de baunilha 300ml
   categoria intima: 72
