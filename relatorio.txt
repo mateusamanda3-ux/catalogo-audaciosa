@@ -1,5 +1,5 @@
-Produtos na loja: 351
-Produtos no catalogo: 257
+Produtos na loja: 349
+Produtos no catalogo: 254
 
 Categorias que ficaram:
   Batons: 24
@@ -7,9 +7,9 @@ Categorias que ficaram:
   Creme para o corpo: 23
   Infantil: 21
   Masculino: 23
-  Outros: 26
+  Outros: 25
   Para o Rosto: 21
-  Perfume Feminino: 17
+  Perfume Feminino: 15
   Prontos para Presentear: 22
   Sabonetes: 19
   Tupperware.: 38
@@ -30,12 +30,14 @@ Produtos SEM descricao persuasiva (12):
     - 12569601 - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
 
 Removidos:
-  arquivado: 19
+  arquivado: 20
     - Presente Natura Nosso Humor Colônia Feminina e Masculina.
     - Body Splash Cereja e Avelã 200ml
-    - Côlonia kaiak Extremo masculino 100ml
+    - Floratta Red Blossom Colônia 75ml
+    - Natura Homem Especiarias Colônia 100ml
     - Body Spray Egeo Original 100ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
+    - Bolsa Transversal
     - Colônia infantil Mickey Mouse 150ml
     - Colônia infantil Spider-man 70ml
     - Creme Facial Hidratação Noturna 100g 5 em 1
@@ -46,8 +48,7 @@ Removidos:
     - Creme hidratante corporal noz peca e cacau 400ml
     - Creme para mãos luva de silicone 75g
     - Creme para mãos luva de silicone óleo de coco 6em1  75g.
-    - Gel Excitante Sedenta Por Gemido 18g
-    - Gel Lubrificante Sedenta Molhada 50g
+    - Essencial Deo Parfum Atrai Feminino 100ml
     - Humor Próprio Deo Corporal 100ml
     - Sabonete liquido ameixa e flor de baunilha 300ml
   categoria intima: 70
