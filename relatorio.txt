@@ -30,7 +30,7 @@ Produtos SEM descricao persuasiva (12):
     - 12569601 - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
 
 Removidos:
-  arquivado: 17
+  arquivado: 19
     - Presente Natura Nosso Humor Colônia Feminina e Masculina.
     - Body Splash Cereja e Avelã 200ml
     - Côlonia kaiak Extremo masculino 100ml
@@ -46,9 +46,11 @@ Removidos:
     - Creme hidratante corporal noz peca e cacau 400ml
     - Creme para mãos luva de silicone 75g
     - Creme para mãos luva de silicone óleo de coco 6em1  75g.
+    - Gel Excitante Sedenta Por Gemido 18g
+    - Gel Lubrificante Sedenta Molhada 50g
     - Humor Próprio Deo Corporal 100ml
     - Sabonete liquido ameixa e flor de baunilha 300ml
-  categoria intima: 72
+  categoria intima: 70
     - Bubble Vibes Gel 3 Em 1 Desliza Vibra Aquece 120g Linha Premium.
     - Gel Deslizante Lubrificante Deborah Secco 120g Linha Premium.
     - Suculenta Gel Deslizante Merengue Calianer 110g Linha Premium.
@@ -88,14 +90,12 @@ Removidos:
     - Gel Excitante Feminino Trepadeira 15g
     - Gel Excitante Ice Raspadinha 15g
     - Gel Excitante Pinta Clima 15g
-    - Gel Excitante Sedenta Por Gemido 18g
     - Gel Excitante Sedenta Por Tesão 18g
     - Gel Excitante Sedenta Safada 18g
     - Gel Facilitador Vo-Da-Ku 15g Poções
     - Gel Funcional Anal Kuloko 15g
     - Gel Funcional Hot Ice e Vibra Xana Loka 15g
     - Gel Hidratante Beijável Babasoul  Frutas Vermelhas 280ml
-    - Gel Lubrificante Sedenta Molhada 50g
     - Gel Térmico Comestível Menta 15ml
     - Gel Térmico Comestível Morango 15ml
     - Gel Térmico Gozo Mágico 15g Poções
