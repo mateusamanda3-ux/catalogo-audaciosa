@@ -20,7 +20,6 @@ Produtos SEM descricao persuasiva (12):
     - 21380088 - Cesta Boticollection Anni – Delicadeza que Encanta
     - 21380506 - Cesta Boticollection Thaty - Um Toque de Carinho.
     - 21375331 - Cesta Essencial Ato – Um Gesto de Amor
-    - 12572819 - Esfoliante em creme para o corpo Macadâmia 200ml
     - 21380913 - Presente infantil para Menino Mickey Mouse - Uma Surpresa Encantadora
     - 21386810 - Presente infantil Patrulha Canina - Uma Caixinha de Diversão.
     - 21381432 - Presente infantil Pequena Sereia - Um Encanto para as Pequenas Princesas.
@@ -28,6 +27,7 @@ Produtos SEM descricao persuasiva (12):
     - 21387225 - Cesta infantil Natura Naturé - Um Carinho Divertido.
     - 21387032 - Presente Cuide-se Bem Boa Noite - Você é Especial
     - 12569601 - Bruma Facial Energizante Flor de Gengibre e Tangerina 100ml
+    - 12572819 - Esfoliante em creme para o corpo Macadâmia 200ml
 
 Removidos:
   arquivado: 20
