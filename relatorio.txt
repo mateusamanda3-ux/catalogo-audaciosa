@@ -1,5 +1,5 @@
 Produtos na loja: 349
-Produtos no catalogo: 252
+Produtos no catalogo: 251
 
 Categorias que ficaram:
   Batons: 24
@@ -9,7 +9,7 @@ Categorias que ficaram:
   Masculino: 23
   Outros: 25
   Para o Rosto: 21
-  Perfume Feminino: 15
+  Perfume Feminino: 14
   Prontos para Presentear: 22
   Sabonetes: 19
   Tupperware.: 36
@@ -30,10 +30,11 @@ Produtos SEM descricao persuasiva (12):
     - 12572819 - Esfoliante em creme para o corpo Macadâmia 200ml
 
 Removidos:
-  arquivado: 22
+  arquivado: 23
     - Presente Natura Nosso Humor Colônia Feminina e Masculina.
     - Body Splash Cereja e Avelã 200ml
     - Floratta Red Blossom Colônia 75ml
+    - Essencial Supreme Feminino Deo Parfum 100ml
     - Natura Homem Especiarias Colônia 100ml
     - Body Spray Egeo Original 100ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
