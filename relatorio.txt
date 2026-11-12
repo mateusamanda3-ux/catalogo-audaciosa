@@ -1,10 +1,10 @@
-Produtos na loja: 349
-Produtos no catalogo: 250
+Produtos na loja: 347
+Produtos no catalogo: 248
 
 Categorias que ficaram:
   Batons: 24
   Body Splash: 22
-  Creme para o corpo: 22
+  Creme para o corpo: 20
   Infantil: 21
   Masculino: 23
   Outros: 25
@@ -62,13 +62,13 @@ Removidos:
     - Lis-In Gold Gel Anestésico 30G  Linha Premium.
     - Anestésico Sete Sensações 25g
     - Chocolate Do Amor Excitante 1 und, 5g Afrodisíaco.
-    - Bolinhas Fucional Facilitador De Orgasmos Climax Com 3un.
     - Algema De Metal Com Pelúcia
     - Aromatizante Sedenta por Garganta 15ml
     - Bolinha Adstringente Lacradinha 3und.
     - Bolinha Excitante Power Shock 220v De Tesão
     - Bolinha Excitantes Dragão Chinês
     - Bolinha Retardante Pika Turbo 3und.
+    - Bolinhas Fucional Facilitador De Orgasmos Climax Com 3un.
     - Bolinhas Hot Xana Loka 2 undi.
     - Bolinhas Sensoriais Tesão na Raba 3 unidades.
     - Calcinha Tailandesa Premium
@@ -109,12 +109,12 @@ Removidos:
     - Hidratante Para Virilha E Corpo Sweet Glow 320ml
     - Jogo Dados Toque Do Cupido 3 Unid. Diversão Ao Cubo
     - Jogo Duelo Do Prazer Picante Diversão Ao Cubo
-    - Lâminas Paper Mint 20 undi.
     - Lubrificante Intimo Neutro 50g
     - Lubrificante Love Bubbalove Menta 60g
     - Masturbador Egg Magical Twister
     - Melzinho Do Amor Trepe Honey 8ml
     - Mini Fantasia Body Emergência.
+    - Pasocá sabor caramelo salgado 10g
     - Perfume Masculino Phero Aroma 15ml
     - Plug Anal Dourado com Pingente tam:M
     - Plug Anal Prata com Rosa tam:P
