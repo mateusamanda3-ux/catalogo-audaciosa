@@ -1,5 +1,5 @@
 Produtos na loja: 343
-Produtos no catalogo: 243
+Produtos no catalogo: 242
 
 Categorias que ficaram:
   Batons: 23
@@ -9,7 +9,7 @@ Categorias que ficaram:
   Masculino: 23
   Outros: 22
   Para o Rosto: 21
-  Perfume Feminino: 13
+  Perfume Feminino: 12
   Prontos para Presentear: 22
   Sabonetes: 19
   Tupperware.: 36
@@ -100,12 +100,13 @@ Removidos:
     - Vela Comestível Sorvete Quente Sabor Sensação 30g
     - Venda Preta Com Pelúcia
     - Vibrador Ponto G Com Formato Golfinho Aveludado
-  arquivado: 25
+  arquivado: 26
     - Presente Natura Nosso Humor Colônia Feminina e Masculina.
     - Body Splash Cereja e Avelã 200ml
     - Floratta Blue Colônia 75ml
     - Floratta Red Blossom Colônia 75ml
     - Essencial Supreme Feminino Deo Parfum 100ml
+    - Boticollection Cecita Colônia 100ml
     - Natura Homem Especiarias Colônia 100ml
     - Body Spray Egeo Original 100ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
