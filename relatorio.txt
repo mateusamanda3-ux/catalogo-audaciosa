@@ -1,9 +1,9 @@
 Produtos na loja: 343
-Produtos no catalogo: 242
+Produtos no catalogo: 239
 
 Categorias que ficaram:
   Batons: 23
-  Body Splash: 22
+  Body Splash: 21
   Creme para o corpo: 20
   Infantil: 21
   Masculino: 23
@@ -11,7 +11,7 @@ Categorias que ficaram:
   Para o Rosto: 21
   Perfume Feminino: 12
   Prontos para Presentear: 22
-  Sabonetes: 19
+  Sabonetes: 17
   Tupperware.: 36
   para o corpo: 1
 
@@ -100,8 +100,9 @@ Removidos:
     - Vela Comestível Sorvete Quente Sabor Sensação 30g
     - Venda Preta Com Pelúcia
     - Vibrador Ponto G Com Formato Golfinho Aveludado
-  arquivado: 26
+  arquivado: 29
     - Presente Natura Nosso Humor Colônia Feminina e Masculina.
+    - Body Splash Limão Siciliano e Flor de Gardênia 200ml
     - Body Splash Cereja e Avelã 200ml
     - Floratta Blue Colônia 75ml
     - Floratta Red Blossom Colônia 75ml
@@ -111,6 +112,7 @@ Removidos:
     - Body Spray Egeo Original 100ml
     - Body Splash Tododia Jambo Rosa e Flor de Caju 200 ml
     - Bolsa Transversal
+    - Caixa de Sabonete Alecrim e Sálvia 5x90g
     - Colônia infantil Mickey Mouse 150ml
     - Colônia infantil Spider-man 70ml
     - Creme Facial Hidratação Noturna 100g 5 em 1
@@ -125,6 +127,7 @@ Removidos:
     - Essencial Deo Parfum Atrai Feminino 100ml
     - Forma Mágica 1L Sobremesas que Encantam
     - Humor Próprio Deo Corporal 100ml
+    - Sabonete em barra limão siciliano e flor de gardenia 5x90g
     - Sabonete liquido ameixa e flor de baunilha 300ml
     - Speedy Chef 1,2L Receitas Sem Complicação
   palavra bloqueada: 5
